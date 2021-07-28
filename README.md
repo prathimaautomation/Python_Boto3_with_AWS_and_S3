@@ -1,5 +1,5 @@
 # Python Boto3 with AWS and S3
-
+![](python_boto3_aws.png)
 ### Create an ec2 instance(ubuntu 16.04) eng89_prathima_pythonboto3 on AWS
 
 #### First install Ubuntu software properties package
